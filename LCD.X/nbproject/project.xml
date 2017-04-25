@@ -3,12 +3,12 @@
     <type>com.microchip.mplab.nbide.embedded.makeproject</type>
     <configuration>
         <data xmlns="http://www.netbeans.org/ns/make-project/1">
-            <name>Stopwatch</name>
-            <creation-uuid>69eb2400-c49c-4d34-a849-f01c61ea8bdc</creation-uuid>
+            <name>LCD</name>
+            <creation-uuid>1dab3656-978b-4122-9aee-1a84fdd6b056</creation-uuid>
             <make-project-type>0</make-project-type>
             <c-extensions>c</c-extensions>
             <cpp-extensions/>
-            <header-extensions/>
+            <header-extensions>h</header-extensions>
             <asminc-extensions/>
             <sourceEncoding>ISO-8859-1</sourceEncoding>
             <make-dep-projects/>

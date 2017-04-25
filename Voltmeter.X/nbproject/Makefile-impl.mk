@@ -24,7 +24,7 @@ CLEAN_SUBPROJECTS=${CLEAN_SUBPROJECTS_${SUBPROJECTS}}
 
 
 # Project Name
-PROJECTNAME=Stopwatch.X
+PROJECTNAME=Voltmeter.X
 
 # Active Configuration
 DEFAULTCONF=default
